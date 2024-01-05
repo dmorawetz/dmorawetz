@@ -2,7 +2,7 @@
 
 I am a software developer from Austria.
 
-- 🔭 I’m currently working on finishing my university studies.
+- 🔭 I recently finished my computer science studies at university.
 - 🌱 I’m currently learning more about IT Security.
 - 💬 Ask me about programming, entrepreneurship and my ideas for a better world.
 - 📫 How to reach me: daniel@morawetz.dev
